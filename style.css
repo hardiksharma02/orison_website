@@ -537,7 +537,7 @@ a, button {
 }
 .cc {
 	height: 400px;
-	width: 400px;
+	width: 70%;
 	height: 500px;
 	border-radius: 10px;
 	justify-content: center;
@@ -565,7 +565,7 @@ a, button {
 	outline: none;
 	color: #2E3D49;
 	font-weight: 600;
-}
+width: 100%;}
 .imp {
 	color: red;
 }
